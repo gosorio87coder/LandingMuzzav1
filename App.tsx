@@ -200,7 +200,7 @@ const App: React.FC = () => {
             </li>
              <li className="flex items-center gap-2 bg-stone-50 p-2 rounded-lg border border-stone-100">
               <span className="w-1.5 h-1.5 rounded-full bg-rose-950"></span>
-              Enfermedades autoinmunes
+              Lactantes (con bebés hasta 06 meses)
             </li>
           </ul>
         </div>
